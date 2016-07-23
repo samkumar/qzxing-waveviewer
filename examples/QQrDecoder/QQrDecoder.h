@@ -34,7 +34,7 @@
 #include <QMainWindow>
 #include <QPixmap>
 #include "ui_QQrDecoder.h"
-#include <qzxing.h>
+#include <QZXing.h>
 
 class QQrDecoder : public QMainWindow
 {
